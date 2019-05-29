@@ -1,0 +1,21 @@
+Images
+https://kenney.nl/assets/simplified-platformer-pack (Platforms, Items)
+https://kenney.nl/assets/platformer-pack-medieval (Flag)
+
+https://opengameart.org/content/castlevania-esque-tilemap-stone-and-bricks (Clouds, moon)
+https://opengameart.org/content/gothicvania-cemetery-pack (Graveyard background)
+ 
+https://opengameart.org/content/metroidvania-style-old-man-sprite (Old man sprite)
+
+Sounds
+https://freesound.org/people/Lefty_Studios/sounds/369515/ (Jump)
+https://freesound.org/people/ProjectsU012/sounds/341695/ (Gem)
+https://freesound.org/people/jppi_Stu/sounds/122058/ (Old man voice)
+ 
+https://freesound.org/people/Scrampunk/sounds/344722/ (Win jingle)
+ 
+Music
+https://opengameart.org/content/monstervania-ghost-land (Level music)
+ 
+Fonts
+https://www.1001fonts.com/cheri-font.html (Cheri Font Family)
