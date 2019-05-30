@@ -20,11 +20,18 @@ Dracula has a legion of infernal demons at his disposal, including an orange one
 - Orange enemies will march ever onward, only stopping and changing directions after running into walls.
 - Blue enemies are a bit brighter than their orange cousins, and will also turn around when they reach an edge.
 
+### People
+People can be found all across the world of WrestleVania and Hogan can talk to them by pressing the up arrow while touching them.
+
 ### Controls
 WrestleVania can only be played with a keyboard as of now, but controller support may be available in the future.
-- Arrow keys - Move left and right
+- Left and Right arrow keys - Move left and right
 - Space bar - Jump
 - X - Chair Throw
+- Up arrow key - Interact/Talk
 
 ## Screenshots
-![Title Screen](https://raw.githubusercontent.com/WaldWober/WrestleVania-Hogans-Quest/master/Title_Screen.png "Title Screen")
+![Title Screen](https://raw.githubusercontent.com/WaldWober/WrestleVania-Hogans-Quest/master/Screenshots/Title_Screen.png "Title Screen")
+![Gameplay 1](https://raw.githubusercontent.com/WaldWober/WrestleVania-Hogans-Quest/master/Screenshots/Gameplay%201.png "Gameplay")
+![Gameplay 2](https://raw.githubusercontent.com/WaldWober/WrestleVania-Hogans-Quest/master/Screenshots/Gameplay%202.png "Gameplay")
+![Gameplay 3](https://raw.githubusercontent.com/WaldWober/WrestleVania-Hogans-Quest/master/Screenshots/Gameplay%203.png "Gameplay")
