@@ -27,4 +27,4 @@ WrestleVania can only be played with a keyboard as of now, but controller suppor
 - X - Chair Throw
 
 ## Screenshots
-[Title Screen](https://raw.githubusercontent.com/WaldWober/WrestleVania-Hogans-Quest/master/Title_Screen.png)
+![Title Screen](https://raw.githubusercontent.com/WaldWober/WrestleVania-Hogans-Quest/master/Title_Screen.png "Title Screen")
