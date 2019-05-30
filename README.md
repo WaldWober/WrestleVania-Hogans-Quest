@@ -37,4 +37,4 @@ WrestleVania can only be played with a keyboard as of now, but controller suppor
 ![Gameplay 3](https://raw.githubusercontent.com/WaldWober/WrestleVania-Hogans-Quest/master/Screenshots/Gameplay%203.png "Gameplay")
 
 ## Downloads
-[Download latest version](
+[Download latest version](https://github.com/WaldWober/WrestleVania-Hogans-Quest/releases/tag/v0.1.0)
