@@ -15,7 +15,7 @@ TITLE = "WrestleVania: Hogan's Quest"
 FPS = 45
 
 # Optional grid for help with level design
-show_grid = True
+show_grid = False
 grid_color = (150, 150, 150)
 
 screen = pygame.display.set_mode([SCREEN_WIDTH, SCREEN_HEIGHT])
